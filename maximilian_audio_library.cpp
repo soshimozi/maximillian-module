@@ -1,0 +1,33 @@
+/*
+ ==============================================================================
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+    IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+    INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+    BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+    LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+    OF THE POSSIBILITY OF SUCH DAMAGE.
+ ==============================================================================
+ */
+
+#include "maximilian_audio_library.h"
+
+#include "libs/maximilian.cpp"
+
+#include "libs/maxiSettings.cpp"
+#include "libs/maxiOsc.cpp"
+#include "libs/maxiEnvelope.cpp"
+#include "libs/maxiMix.cpp"
+#include "libs/maxiDelayLine.cpp"
+#include "libs/maxiFilter.cpp"
+#include "libs/maxiDyn.cpp"
+#include "libs/maxiEnv.cpp"
+#include "libs/maxiDistortion.hpp"
+#include "libs/maxiFlanger.cpp"
+#include "libs/maxiChorus.cpp"
+#include "libs/maxiEnvelopeFollowerType.cpp"
+#include "libs/maxiSVF.cpp"
+#include "libs/maxiClock.cpp"
